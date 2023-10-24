@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "include": [
+    "components.d.ts",
+    "auto-import.d.ts"
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    },
+  ]
+}
